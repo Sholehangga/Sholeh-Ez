@@ -1,2 +1,6 @@
-# Sholeh-Ez
-Follow ngap akun baru
+# SPAM SMS
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+git clone 
+
